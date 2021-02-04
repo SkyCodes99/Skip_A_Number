@@ -1,0 +1,3 @@
+﻿1. Ask user for numbers to count from and to
+2. Ask for a number between 1-10
+3. Print out $ every time a number is divisible
